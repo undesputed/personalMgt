@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034499675214",
+    "project_id": "personalmgt-feabd",
+    "storage_bucket": "personalmgt-feabd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034499675214:android:42fd1ac2fa004e27c71f1f",
+        "android_client_info": {
+          "package_name": "com.personnalmgt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRyrs7cMrfVeyQz9aKCppA293XGuvi_Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
